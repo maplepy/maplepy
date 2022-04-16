@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @maplepy
-- 👀 I’m interested in AI, Data Science, Automation and Scripting
+- 👀 I’m interested in AI, Data Science, Automation, Scripting and Art (Pixel art and hexel art)
 - 🌱 I’m currently learning Python, Lua and C++
 - 💞️ I’m looking to collaborate on bash scripts, Python projects and bots
+- I would love to create an art generator in Pixel art/hexel art
 
 
 <!---
