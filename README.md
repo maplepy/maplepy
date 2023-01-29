@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on bash scripts, Python projects and bots
 - I would love to create an art generator in Pixel art/hexel art
 
-### [Come check my website!](https://maplepy.github.io/_
+### [Come check my website!](https://maplepy.github.io/)
 
 <!---
 - 📫 How to reach me ...
