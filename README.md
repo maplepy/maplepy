@@ -1,13 +1,13 @@
-- 👋 Hi, I’m @maplepy
-- 👀 I’m interested in AI, Data Science, Automation, Scripting and Art (Pixel art and hexel art)
-- 🌱 I’m currently learning Python and C
-- 💞️ I’m looking to collaborate on bash scripts, Python projects and bots
-- I would love to create an art generator in Pixel art/hexel art
+<h1 align="center">Hej hej 👋, I'm maplepy</h1>
 
-### [Come check my website!](https://maplepy.github.io/)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=maplepy&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
-<!---
-- 📫 How to reach me ...
-maplepy/maplepy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 Currently learning **at [@42School](https://github.com/42School)**
+- 👀 Interested in **A.I., Data Science, Automation, Scripting** and **AI Art**.
+- 🌐 Come check **[my website](https://maplepy.xyz/)**
+- 💬 Ask me about **C, Scripting, Shell, AHK**
+- 💡 I would love to create an art generator in **Pixel art** or **Hexel art**.
+
+
+
+<p align="center"><img align="center" src="https://cdn.7tv.app/emote/60aeec1712d7701491f89cf5/4x.webp"/></p>
