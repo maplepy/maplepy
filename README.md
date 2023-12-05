@@ -1,4 +1,4 @@
-<h1 align="center">Hej hej 👋, I'm maplepy</h1>
+<h1 align="center">Hej hej 👋, I'm maplepy (croy)</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maplepy&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
