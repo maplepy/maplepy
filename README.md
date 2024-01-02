@@ -5,7 +5,7 @@
 - 🌱 Currently learning **at [@42School](https://github.com/42School)**
 - 👀 Interested in **A.I., Data Science, Automation, Scripting** and **AI Art**.
 - 🌐 Come check **[my website](https://maplepy.xyz/)**
-- 💬 Ask me about **C, Scripting, Shell, AHK**
+- 💬 Ask me about **C, C++, JavaScript, Bash, Shell, Python or AHK**
 - 💡 I would love to create an art generator in **Pixel art** or **Hexel art**.
 
 
