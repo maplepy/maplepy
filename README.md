@@ -1,4 +1,4 @@
-<h1 align="center">Hej hej 👋, I'm maplepy </h1>
+<h1 align="center">Hej hej 👋, I'm maplepy (aka croy)</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maplepy&label=Profile%20views&color=0e75b6&style=flat"/>
@@ -42,6 +42,7 @@
 [![Self-hosting](https://img.shields.io/badge/Self_Hosting-000000?style=flat-square&logo=home-assistant&logoColor=white)](https://en.wikipedia.org/wiki/Self-hosting)
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://wordpress.org/)
 
+
 ---
 
 ### 🚀 Projects
@@ -73,6 +74,7 @@ Here are some of my school projects from [42-tronc](https://github.com/42-tronc)
   <a href="https://maplepy.xyz/" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
   <a href="mailto:github@maplepy.xyz"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/maplepy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/clement-roy-8481b5302/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://discord.gg/R7dpGv3nKy"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
 
