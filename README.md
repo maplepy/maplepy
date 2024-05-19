@@ -12,6 +12,7 @@
 
 ### 🌱 About Me
 - 📚 Currently learning at [@42School](https://github.com/42School)
+- 💻 I self-host many tools like my own cloud, media server stack, etc.
 - 🤖 Interested in A.I., Data Science, Automation, Scripting, and AI Art
 - 🌐 Visit my website: [maplepy.xyz](https://maplepy.xyz/)
 
