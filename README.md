@@ -41,6 +41,8 @@
 [![CI/CD](https://img.shields.io/badge/CI%2FCD-00C853?style=flat-square&logo=continuous-delivery&logoColor=white)](https://en.wikipedia.org/wiki/CI/CD)
 [![Self-hosting](https://img.shields.io/badge/Self_Hosting-000000?style=flat-square&logo=home-assistant&logoColor=white)](https://en.wikipedia.org/wiki/Self-hosting)
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://wordpress.org/)
+[![Unix/Linux](https://img.shields.io/badge/Unix%2FLinux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.kernel.org/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 
 
 ---
