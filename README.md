@@ -1,4 +1,4 @@
-<h1 align="center">Hej hej 👋, I'm maplepy </h1>
+<h1 align="center">Hej hej 👋, I'm maplepy (aka croy)</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maplepy&label=Profile%20views&color=0e75b6&style=flat"/>
@@ -41,6 +41,7 @@
 [![CI/CD](https://img.shields.io/badge/CI%2FCD-00C853?style=flat-square&logo=continuous-delivery&logoColor=white)](https://en.wikipedia.org/wiki/CI/CD)
 [![Self-hosting](https://img.shields.io/badge/Self_Hosting-000000?style=flat-square&logo=home-assistant&logoColor=white)](https://en.wikipedia.org/wiki/Self-hosting)
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://wordpress.org/)
+
 
 ---
 
