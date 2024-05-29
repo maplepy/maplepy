@@ -55,15 +55,15 @@ Here are some of my school projects from [42-tronc](https://github.com/42-tronc)
 - [IRC](https://github.com/42-tronc/irc/): A project to create an Internet Relay Chat server, adhering to the RFC 2812 specification.
 
 ---
-
-### 📊 GitHub Stats
+<details>
+  <summary><h3>📊 GitHub Stats</h3></summary>
+  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maplepy&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maplepy&theme=radical" alt="GitHub Streak"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=maplepy&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maplepy&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maplepy&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="GitHub Streak"/>
+  </p>
+</details>
 
 ---
 
