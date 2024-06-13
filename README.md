@@ -20,7 +20,7 @@
     </a>
   <h4>Tools</h4>
     <a href="https://github.com/42-tronc">
-      <img src="https://skillicons.dev/icons?i=linux,vim,neovim,vscode,vscodium,docker,git,github,githubactions,md,wordpress" />
+      <img src="https://skillicons.dev/icons?i=linux,vim,neovim,vscode,vscodium,docker,git,github,githubactions,md,wordpress,windows"/>
     </a>
 </div>
 
