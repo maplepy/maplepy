@@ -1,4 +1,10 @@
-<h1 align="center">Hej hej 👋, I'm maplepy (aka croy)</h1>
+<h1 align="center">Hej hej 👋, I'm maplepy (a.k.a. <i>croy</i>)</h1>
+
+
+Computer Science Student at **42 Lyon**, I have a deep interest in technology and development.
+
+---
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maplepy&label=Profile%20views&color=0e75b6&style=flat"/>
@@ -11,10 +17,25 @@
 ---
 
 ### 🌱 About Me
+
 - 📚 Currently learning at [@42School](https://github.com/42School)
 - 💻 I self-host many tools like my own cloud, media server stack, etc.
 - 🤖 Interested in A.I., Data Science, Automation, Scripting, and AI Art
 - 🌐 Visit my website: [maplepy.xyz](https://maplepy.xyz/)
+
+---
+### 🛠️ Skills & Tools
+
+<div >
+  <h3>Languages</h3>
+    <a href="https://github.com/42-tronc">
+      <img src="https://skillicons.dev/icons?i=bash,c,cpp,python,html,css,js" />
+    </a>
+  <h3>Tools</h3>
+    <a href="https://github.com/42-tronc">
+      <img src="https://skillicons.dev/icons?i=linux,vim,neovim,vscode,vscodium,docker,git,github,githubactions,md,wordpress" />
+    </a>
+</div>
 
 ---
 
