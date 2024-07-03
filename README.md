@@ -47,6 +47,7 @@ Here are some of my school projects from [42-tronc](https://github.com/42-tronc)
 
 ### 🎓 Certifications
 - **Docker Certification by Mosh**: [Course](https://codewithmosh.com/p/the-ultimate-docker-course)
+- **CPP Certification by Mosh:** [Course](https://codewithmosh.com/p/ultimate-c-plus-plus-series)
 
 ---
 
