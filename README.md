@@ -1,4 +1,4 @@
-<h1 align="center">Hej hej 👋, I'm maplepy (a.k.a. <i>croy</i>)</h1>
+<h1 align="center">Heya 👋, I'm maplepy (a.k.a. <i>croy</i>)</h1>
 
  Computer Science student at **[42 Lyon](https://42lyon.fr/)** with a passion for technology, self-hosting various tools like cloud and media servers, exploring AI, Data Science, Automation, Scripting, AI Art, and maintaining the website **[maplepy.xyz](https://maplepy.xyz/)**.
 
@@ -20,7 +20,7 @@
     </a>
   <h4>Tools</h4>
     <a href="https://github.com/42-tronc">
-      <img src="https://skillicons.dev/icons?i=linux,vim,neovim,vscode,vscodium,docker,git,github,githubactions,md,wordpress,windows"/>
+      <img src="https://skillicons.dev/icons?i=linux,vim,neovim,vscode,vscodium,docker,git,github,githubactions,md,wordpress,windows,zed"/>
     </a>
 </div>
 
