@@ -16,11 +16,11 @@
 <div>
   <h4>Languages</h4>
     <a href="https://github.com/42-tronc">
-      <img src="https://skillicons.dev/icons?i=bash,c,cpp,python,html,css,js" />
+      <img src="https://skillicons.dev/icons?i=bash,c,cpp,python,html,css,js,ts" />
     </a>
   <h4>Tools</h4>
     <a href="https://github.com/42-tronc">
-      <img src="https://skillicons.dev/icons?i=linux,vim,neovim,vscode,vscodium,docker,git,github,githubactions,md,wordpress,windows,zed"/>
+      <img src="https://skillicons.dev/icons?i=linux,vim,neovim,vscode,vscodium,docker,git,github,githubactions,md,wordpress,windows,aws,ansible,angular"/>
     </a>
 </div>
 
