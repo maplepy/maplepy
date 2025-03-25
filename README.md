@@ -20,7 +20,7 @@
     </a>
   <h4>Tools</h4>
     <a href="https://github.com/maplepy">
-      <img src="https://skillicons.dev/icons?i=linux,vim,neovim,vscode,vscodium,docker,git,github,githubactions,md,wordpress,windows,aws,ansible,bun,npm"/>
+      <img src="https://skillicons.dev/icons?i=linux,vim,neovim,vscode,docker,git,github,githubactions,md,wordpress,windows,aws,ansible,bun,npm"/>
     </a>
   <h4>Learning</h4>
     <a href="https://github.com/maplepy">
