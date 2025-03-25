@@ -15,12 +15,16 @@
 
 <div>
   <h4>Languages</h4>
-    <a href="https://github.com/42-tronc">
-      <img src="https://skillicons.dev/icons?i=bash,c,cpp,python,html,css,js,ts" />
+    <a href="https://github.com/maplepy">
+      <img src="https://skillicons.dev/icons?i=bash,c,cpp,python,html,css" />
     </a>
   <h4>Tools</h4>
-    <a href="https://github.com/42-tronc">
-      <img src="https://skillicons.dev/icons?i=linux,vim,neovim,vscode,vscodium,docker,git,github,githubactions,md,wordpress,windows,aws,ansible,angular"/>
+    <a href="https://github.com/maplepy">
+      <img src="https://skillicons.dev/icons?i=linux,vim,neovim,vscode,vscodium,docker,git,github,githubactions,md,wordpress,windows,aws,ansible,bun,npm"/>
+    </a>
+  <h4>Learning</h4>
+    <a href="https://github.com/maplepy">
+      <img src="https://skillicons.dev/icons?i=js,ts,angular,tailwind,react,nextjs" />
     </a>
 </div>
 
@@ -33,6 +37,7 @@ Here are some of my school projects from [42-tronc](https://github.com/42-tronc)
 - [IRC](https://github.com/42-tronc/irc/): A project to create an Internet Relay Chat server, adhering to the RFC 2812 specification.
 
 ---
+
 <details>
   <summary><h3>📊 GitHub Stats</h3></summary>
   
