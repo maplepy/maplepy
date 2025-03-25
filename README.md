@@ -24,7 +24,7 @@
     </a>
   <h4>Learning</h4>
     <a href="https://github.com/maplepy">
-      <img src="https://skillicons.dev/icons?i=js,ts,angular,tailwind,react,nextjs,jupyter,claude,cohere" />
+      <img src="https://skillicons.dev/icons?i=js,ts,angular,tailwind,react,nextjs" />
     </a>
 </div>
 
