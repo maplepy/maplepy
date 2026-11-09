@@ -15,47 +15,39 @@
 
 <div>
   <h4>Languages</h4>
-    <a href="https://github.com/maplepy">
-      <img src="icons/bash.svg" width="48" height="48" alt="bash"/>
-      <img src="icons/c.svg" width="48" height="48" alt="c"/>
-      <img src="icons/cpp.svg" width="48" height="48" alt="cpp"/>
-      <img src="icons/python.svg" width="48" height="48" alt="python"/>
-      <img src="icons/js.svg" width="48" height="48" alt="js"/>
-      <img src="icons/ts.svg" width="48" height="48" alt="ts"/>
-      <img src="icons/html.svg" width="48" height="48" alt="html"/>
-      <img src="icons/css.svg" width="48" height="48" alt="css"/>
-    </a>
+        <img src="icons/bash.svg?v=2" width="48" height="48" alt="bash"/>
+    <img src="icons/c.svg?v=2" width="48" height="48" alt="c"/>
+    <img src="icons/cpp.svg?v=2" width="48" height="48" alt="cpp"/>
+    <img src="icons/python.svg?v=2" width="48" height="48" alt="python"/>
+    <img src="icons/js.svg?v=2" width="48" height="48" alt="js"/>
+    <img src="icons/ts.svg?v=2" width="48" height="48" alt="ts"/>
+    <img src="icons/html.svg?v=2" width="48" height="48" alt="html"/>
+    <img src="icons/css.svg?v=2" width="48" height="48" alt="css"/>
   <h4>Frameworks</h4>
-    <a href="https://github.com/maplepy">
-      <img src="icons/angular.svg" width="48" height="48" alt="angular"/>
-      <img src="icons/reactnative.svg" width="48" height="48" alt="reactnative"/>
-      <img src="icons/expo.svg" width="48" height="48" alt="expo"/>
-    </a>
+        <img src="icons/angular.svg?v=2" width="48" height="48" alt="angular"/>
+    <img src="icons/reactnative.svg?v=2" width="48" height="48" alt="reactnative"/>
+    <img src="icons/expo.svg?v=2" width="48" height="48" alt="expo"/>
   <h4>Tools</h4>
-    <a href="https://github.com/maplepy">
-      <img src="icons/linux.svg" width="48" height="48" alt="linux"/>
-      <img src="icons/vim.svg" width="48" height="48" alt="vim"/>
-      <img src="icons/vscode.svg" width="48" height="48" alt="vscode"/>
-      <img src="icons/zed.svg" width="48" height="48" alt="zed"/>
-      <img src="icons/opencode.svg" width="48" height="48" alt="opencode"/>
-      <img src="icons/docker.svg" width="48" height="48" alt="docker"/>
-      <img src="icons/git.svg" width="48" height="48" alt="git"/>
-      <img src="icons/github.svg" width="48" height="48" alt="github"/>
-      <img src="icons/githubactions.svg" width="48" height="48" alt="githubactions"/>
-      <img src="icons/md.svg" width="48" height="48" alt="md"/>
-      <img src="icons/wordpress.svg" width="48" height="48" alt="wordpress"/>
-      <img src="icons/windows.svg" width="48" height="48" alt="windows"/>
-      <img src="icons/ansible.svg" width="48" height="48" alt="ansible"/>
-      <img src="icons/npm.svg" width="48" height="48" alt="npm"/>
-      <img src="icons/sass.svg" width="48" height="48" alt="sass"/>
-      <img src="icons/tailwind.svg" width="48" height="48" alt="tailwind"/>
-    </a>
+        <img src="icons/linux.svg?v=2" width="48" height="48" alt="linux"/>
+    <img src="icons/vim.svg?v=2" width="48" height="48" alt="vim"/>
+    <img src="icons/vscode.svg?v=2" width="48" height="48" alt="vscode"/>
+    <img src="icons/zed.svg?v=2" width="48" height="48" alt="zed"/>
+    <img src="icons/opencode.svg?v=2" width="48" height="48" alt="opencode"/>
+    <img src="icons/docker.svg?v=2" width="48" height="48" alt="docker"/>
+    <img src="icons/git.svg?v=2" width="48" height="48" alt="git"/>
+    <img src="icons/github.svg?v=2" width="48" height="48" alt="github"/>
+    <img src="icons/githubactions.svg?v=2" width="48" height="48" alt="githubactions"/>
+    <img src="icons/md.svg?v=2" width="48" height="48" alt="md"/>
+    <img src="icons/wordpress.svg?v=2" width="48" height="48" alt="wordpress"/>
+    <img src="icons/windows.svg?v=2" width="48" height="48" alt="windows"/>
+    <img src="icons/ansible.svg?v=2" width="48" height="48" alt="ansible"/>
+    <img src="icons/npm.svg?v=2" width="48" height="48" alt="npm"/>
+    <img src="icons/sass.svg?v=2" width="48" height="48" alt="sass"/>
+    <img src="icons/tailwind.svg?v=2" width="48" height="48" alt="tailwind"/>
   <h4>Learning</h4>
-    <a href="https://github.com/maplepy">
-      <img src="icons/aws.svg" width="48" height="48" alt="aws"/>
-      <img src="icons/langchain.svg" width="48" height="48" alt="langchain"/>
-      <img src="icons/langfuse.svg" width="48" height="48" alt="langfuse"/>
-    </a>
+        <img src="icons/aws.svg?v=2" width="48" height="48" alt="aws"/>
+    <img src="icons/langchain.svg?v=2" width="48" height="48" alt="langchain"/>
+    <img src="icons/langfuse.svg?v=2" width="48" height="48" alt="langfuse"/>
 </div>
 
 ---
