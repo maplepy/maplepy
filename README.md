@@ -23,31 +23,33 @@
     <img src="icons/ts.svg?v=2" width="48" height="48" alt="ts"/>
     <img src="icons/html.svg?v=2" width="48" height="48" alt="html"/>
     <img src="icons/css.svg?v=2" width="48" height="48" alt="css"/>
-  <h4>Frameworks</h4>
+  <h4>Web</h4>
     <img src="icons/angular.svg?v=2" width="48" height="48" alt="angular"/>
+    <img src="icons/tailwind.svg?v=2" width="48" height="48" alt="tailwind"/>
+    <img src="icons/sass.svg?v=2" width="48" height="48" alt="sass"/>
+    <img src="icons/wordpress.svg?v=2" width="48" height="48" alt="wordpress"/>
+    <img src="icons/npm.svg?v=2" width="48" height="48" alt="npm"/>
+  <h4>Mobile</h4>
     <img src="icons/reactnative.svg?v=2" width="48" height="48" alt="reactnative"/>
     <img src="icons/expo.svg?v=2" width="48" height="48" alt="expo"/>
-  <h4>Tools</h4>
+  <h4>AI</h4>
+    <img src="icons/langchain.svg?v=2" width="48" height="48" alt="langchain"/>
+    <img src="icons/langfuse.svg?v=2" width="48" height="48" alt="langfuse"/>
+    <img src="icons/opencode.svg?v=2" width="48" height="48" alt="opencode"/>
+  <h4>Infra &amp; Homelab</h4>
     <img src="icons/linux.svg?v=2" width="48" height="48" alt="linux"/>
+    <img src="icons/docker.svg?v=2" width="48" height="48" alt="docker"/>
+    <img src="icons/ansible.svg?v=2" width="48" height="48" alt="ansible"/>
+    <img src="icons/aws.svg?v=2" width="48" height="48" alt="aws"/>
+    <img src="icons/githubactions.svg?v=2" width="48" height="48" alt="githubactions"/>
+    <img src="icons/windows.svg?v=2" width="48" height="48" alt="windows"/>
+  <h4>Dev Tools</h4>
     <img src="icons/vim.svg?v=2" width="48" height="48" alt="vim"/>
     <img src="icons/vscode.svg?v=2" width="48" height="48" alt="vscode"/>
     <img src="icons/zed.svg?v=2" width="48" height="48" alt="zed"/>
-    <img src="icons/opencode.svg?v=2" width="48" height="48" alt="opencode"/>
-    <img src="icons/docker.svg?v=2" width="48" height="48" alt="docker"/>
     <img src="icons/git.svg?v=2" width="48" height="48" alt="git"/>
     <img src="icons/github.svg?v=2" width="48" height="48" alt="github"/>
-    <img src="icons/githubactions.svg?v=2" width="48" height="48" alt="githubactions"/>
     <img src="icons/md.svg?v=2" width="48" height="48" alt="md"/>
-    <img src="icons/wordpress.svg?v=2" width="48" height="48" alt="wordpress"/>
-    <img src="icons/windows.svg?v=2" width="48" height="48" alt="windows"/>
-    <img src="icons/ansible.svg?v=2" width="48" height="48" alt="ansible"/>
-    <img src="icons/npm.svg?v=2" width="48" height="48" alt="npm"/>
-    <img src="icons/sass.svg?v=2" width="48" height="48" alt="sass"/>
-    <img src="icons/tailwind.svg?v=2" width="48" height="48" alt="tailwind"/>
-  <h4>Learning</h4>
-    <img src="icons/aws.svg?v=2" width="48" height="48" alt="aws"/>
-    <img src="icons/langchain.svg?v=2" width="48" height="48" alt="langchain"/>
-    <img src="icons/langfuse.svg?v=2" width="48" height="48" alt="langfuse"/>
 </div>
 
 ---
