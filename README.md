@@ -1,6 +1,6 @@
 <h1 align="center">Heya 👋, I'm maplepy (a.k.a. <i>croy</i>)</h1>
 
- Computer Science student at **[42 Lyon](https://42lyon.fr/)** with a passion for technology, self-hosting various tools like cloud and media servers, exploring AI, Data Science, Automation, Scripting, AI Art, and maintaining the website **[maplepy.xyz](https://maplepy.xyz/)**.
+ AI & Web Developer at a large company, trained at **[42 Lyon](https://42lyon.fr/)**. I have a passion for technology, self-hosting various tools like cloud and media servers, exploring AI, Data Science, Automation, Scripting, AI Art, and maintaining the website **[maplepy.xyz](https://maplepy.xyz/)**.
 
 <p align="center">
   <img src="https://cdn.7tv.app/emote/60aeec1712d7701491f89cf5/4x.webp" alt="Emote"/>
