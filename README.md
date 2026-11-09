@@ -27,7 +27,6 @@
     <img src="icons/angular.svg?v=2" width="48" height="48" alt="angular"/>
     <img src="icons/tailwind.svg?v=2" width="48" height="48" alt="tailwind"/>
     <img src="icons/sass.svg?v=2" width="48" height="48" alt="sass"/>
-    <img src="icons/wordpress.svg?v=2" width="48" height="48" alt="wordpress"/>
     <img src="icons/npm.svg?v=2" width="48" height="48" alt="npm"/>
   <h4>Mobile</h4>
     <img src="icons/reactnative.svg?v=2" width="48" height="48" alt="reactnative"/>
