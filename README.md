@@ -16,19 +16,45 @@
 <div>
   <h4>Languages</h4>
     <a href="https://github.com/maplepy">
-      <img src="https://skillicons.dev/icons?i=bash,c,cpp,python,js,ts,html,css" />
+      <img src="icons/bash.svg" width="48" height="48" alt="bash"/>
+      <img src="icons/c.svg" width="48" height="48" alt="c"/>
+      <img src="icons/cpp.svg" width="48" height="48" alt="cpp"/>
+      <img src="icons/python.svg" width="48" height="48" alt="python"/>
+      <img src="icons/js.svg" width="48" height="48" alt="js"/>
+      <img src="icons/ts.svg" width="48" height="48" alt="ts"/>
+      <img src="icons/html.svg" width="48" height="48" alt="html"/>
+      <img src="icons/css.svg" width="48" height="48" alt="css"/>
     </a>
   <h4>Frameworks</h4>
     <a href="https://github.com/maplepy">
-      <img src="https://skillicons.dev/icons?i=angular" />
+      <img src="icons/angular.svg" width="48" height="48" alt="angular"/>
+      <img src="icons/reactnative.svg" width="48" height="48" alt="reactnative"/>
+      <img src="icons/expo.svg" width="48" height="48" alt="expo"/>
     </a>
   <h4>Tools</h4>
     <a href="https://github.com/maplepy">
-      <img src="https://skillicons.dev/icons?i=linux,vim,vscode,docker,git,github,githubactions,md,wordpress,windows,ansible,npm,regex,sass,tailwind"/>
+      <img src="icons/linux.svg" width="48" height="48" alt="linux"/>
+      <img src="icons/vim.svg" width="48" height="48" alt="vim"/>
+      <img src="icons/vscode.svg" width="48" height="48" alt="vscode"/>
+      <img src="icons/zed.svg" width="48" height="48" alt="zed"/>
+      <img src="icons/opencode.svg" width="48" height="48" alt="opencode"/>
+      <img src="icons/docker.svg" width="48" height="48" alt="docker"/>
+      <img src="icons/git.svg" width="48" height="48" alt="git"/>
+      <img src="icons/github.svg" width="48" height="48" alt="github"/>
+      <img src="icons/githubactions.svg" width="48" height="48" alt="githubactions"/>
+      <img src="icons/md.svg" width="48" height="48" alt="md"/>
+      <img src="icons/wordpress.svg" width="48" height="48" alt="wordpress"/>
+      <img src="icons/windows.svg" width="48" height="48" alt="windows"/>
+      <img src="icons/ansible.svg" width="48" height="48" alt="ansible"/>
+      <img src="icons/npm.svg" width="48" height="48" alt="npm"/>
+      <img src="icons/sass.svg" width="48" height="48" alt="sass"/>
+      <img src="icons/tailwind.svg" width="48" height="48" alt="tailwind"/>
     </a>
   <h4>Learning</h4>
     <a href="https://github.com/maplepy">
-      <img src="https://skillicons.dev/icons?i=aws" />
+      <img src="icons/aws.svg" width="48" height="48" alt="aws"/>
+      <img src="icons/langchain.svg" width="48" height="48" alt="langchain"/>
+      <img src="icons/langfuse.svg" width="48" height="48" alt="langfuse"/>
     </a>
 </div>
 
