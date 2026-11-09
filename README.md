@@ -15,7 +15,7 @@
 
 <div>
   <h4>Languages</h4>
-        <img src="icons/bash.svg?v=2" width="48" height="48" alt="bash"/>
+    <img src="icons/bash.svg?v=2" width="48" height="48" alt="bash"/>
     <img src="icons/c.svg?v=2" width="48" height="48" alt="c"/>
     <img src="icons/cpp.svg?v=2" width="48" height="48" alt="cpp"/>
     <img src="icons/python.svg?v=2" width="48" height="48" alt="python"/>
@@ -24,11 +24,11 @@
     <img src="icons/html.svg?v=2" width="48" height="48" alt="html"/>
     <img src="icons/css.svg?v=2" width="48" height="48" alt="css"/>
   <h4>Frameworks</h4>
-        <img src="icons/angular.svg?v=2" width="48" height="48" alt="angular"/>
+    <img src="icons/angular.svg?v=2" width="48" height="48" alt="angular"/>
     <img src="icons/reactnative.svg?v=2" width="48" height="48" alt="reactnative"/>
     <img src="icons/expo.svg?v=2" width="48" height="48" alt="expo"/>
   <h4>Tools</h4>
-        <img src="icons/linux.svg?v=2" width="48" height="48" alt="linux"/>
+    <img src="icons/linux.svg?v=2" width="48" height="48" alt="linux"/>
     <img src="icons/vim.svg?v=2" width="48" height="48" alt="vim"/>
     <img src="icons/vscode.svg?v=2" width="48" height="48" alt="vscode"/>
     <img src="icons/zed.svg?v=2" width="48" height="48" alt="zed"/>
@@ -45,7 +45,7 @@
     <img src="icons/sass.svg?v=2" width="48" height="48" alt="sass"/>
     <img src="icons/tailwind.svg?v=2" width="48" height="48" alt="tailwind"/>
   <h4>Learning</h4>
-        <img src="icons/aws.svg?v=2" width="48" height="48" alt="aws"/>
+    <img src="icons/aws.svg?v=2" width="48" height="48" alt="aws"/>
     <img src="icons/langchain.svg?v=2" width="48" height="48" alt="langchain"/>
     <img src="icons/langfuse.svg?v=2" width="48" height="48" alt="langfuse"/>
 </div>
