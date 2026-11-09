@@ -1,6 +1,6 @@
 <h1 align="center">Heya 👋, I'm maplepy (a.k.a. <i>croy</i>)</h1>
 
- AI & Web Developer at a large company, with an RNCP 6 degree in Development from **[42 Lyon](https://42lyon.fr/)**. I have a passion for technology, self-hosting various tools like cloud and media servers, exploring AI, Data Science, Automation, Scripting, AI Art, and maintaining the website **[maplepy.xyz](https://maplepy.xyz/)**.
+ AI & Web Developer at a large company, with a Master's degree in Development, and a student at **[42 Lyon](https://42lyon.fr/)**. I have a passion for technology, running a homelab (cloud and media servers, self-hosted tools), exploring AI, Data Science, Automation, Scripting, and maintaining the website **[maplepy.xyz](https://maplepy.xyz/)**.
 
 <p align="center">
   <img src="https://cdn.7tv.app/emote/60aeec1712d7701491f89cf5/4x.webp" alt="Emote"/>
@@ -16,7 +16,11 @@
 <div>
   <h4>Languages</h4>
     <a href="https://github.com/maplepy">
-      <img src="https://skillicons.dev/icons?i=bash,c,cpp,python,js,ts,angular,html,css" />
+      <img src="https://skillicons.dev/icons?i=bash,c,cpp,python,js,ts,html,css" />
+    </a>
+  <h4>Frameworks</h4>
+    <a href="https://github.com/maplepy">
+      <img src="https://skillicons.dev/icons?i=angular" />
     </a>
   <h4>Tools</h4>
     <a href="https://github.com/maplepy">
@@ -24,9 +28,8 @@
     </a>
   <h4>Learning</h4>
     <a href="https://github.com/maplepy">
-      <img src="https://skillicons.dev/icons?i=aws,react" />
+      <img src="https://skillicons.dev/icons?i=aws" />
     </a>
-    <p>LangChain, Langfuse, AWS, React Native / Expo</p>
 </div>
 
 ---
